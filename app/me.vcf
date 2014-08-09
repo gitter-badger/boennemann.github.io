@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.9.4//EN
+N:Bönnemann;Stephan;;;
+FN:Stephan Bönnemann
+ORG:excellenteasy GbR;
+EMAIL;type=INTERNET;type=HOME;type=pref:stephan@boennemann.me
+EMAIL;type=INTERNET;type=WORK:stephan@excellenteasy.com
+TEL;type=CELL;type=VOICE;type=pref:+49 151 42318681
+X-SOCIALPROFILE;type=twitter:http://twitter.com/boennemann
+item1.URL;type=pref:http://boennemann.me
+item1.X-ABLabel:_$!<HomePage>!$_
+UID:1b4caddb10557ed9
+X-ABUID:1707BFF1-9E14-490B-8A9E-1612D271F961:ABPerson
+END:VCARD

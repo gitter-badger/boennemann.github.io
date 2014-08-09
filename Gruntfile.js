@@ -319,7 +319,7 @@ module.exports = function (grunt) {
     'concurrent:dist',
     'autoprefixer',
     'concat',
-    // 'uglify',
+    'uglify',
     'copy:dist',
     'uncss',
     'cssmin:dist',

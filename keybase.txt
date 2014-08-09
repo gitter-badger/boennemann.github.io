@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/boennemann
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://boennemann.me
+  * I am boennemann (https://keybase.io/boennemann) on keybase.
+  * I have a public key with fingerprint F70C B400 09DB A932 CE78  80E2 FC69 316C 9866 3CFE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.14"
+        },
+        "key": {
+            "fingerprint": "f70cb40009dba932ce7880e2fc69316c98663cfe",
+            "host": "keybase.io",
+            "key_id": "FC69316C98663CFE",
+            "uid": "e1e524c06254495f8473274eb4eae300",
+            "username": "boennemann"
+        },
+        "merkle_root": {
+            "ctime": 1407590419,
+            "hash": "c9b3c95061d42ce70b0ebb59a6c1ce0684a0ad686727253f761322ee8c1089afff4512e01467c3b7e1394f5500e2aaed935bb9413728c0f5ab23ecd8e8be215f",
+            "seqno": 34928
+        },
+        "service": {
+            "hostname": "boennemann.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1407590808,
+    "expire_in": 157680000,
+    "prev": "9a991194ce219994b0cf394728af70fb9aca1bd64dc237c142eae99fed87b95f",
+    "seqno": 24,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFlkn9QFGUYxw/ol+dITCGKmeIqHAUy7+6+++PlhzEwIIKnjgydjOXN7rvvyip3
+C3sHHeEN6miY/IE6GY7DQGgK1ESIR6FjF9XQTDlW14+bVCo1hWlsKgyKmsR2GZvR
+6b999/m83/f7fZ7nwLw4mz2mMOqp/LC9KBJz/ifZVj627EgjJetKA5XdSOFqjXj9
+1pdX8hAqm9pOGmTJR7I0PcWrKyRrmy/lLpNJ1RPDp+lekwJZMIuGVDDT4q3bqubd
+SowaQ7PEKFUAWIYAAKTIEmIZTARRBIRRMY9YmsdI5HkWq8TUrNJ9/vuepWY13Zpi
+/i0unOULZ/nC4iKzVjdbIDThGIgBz3AQIk4VocAyAiQyJBJhAbBAHzHuZpJ14vUS
+j+T1Wo49xNheTdyGrs/mxn7NgmgIBA4BSCPTk+SrMq9hJLMYcYCnFWhFADIgsswh
+icc0JoAXoQQkhRd5gREYjlUFnmYZhhAR00BEkqqqkKMZAmjIC5iVBUKzCKocB8xO
+SBJREMvJMoI0KzAiBionyQxLsCISUSYMzalmCB+p9epUNgsRIwato1GvYWLZtvr2
+v3hZHqulNYbu17FebZaq/P6abCu0v6HGQl84RWT3XRW3rHkVc2z3DpY20fsbIgIx
+kyKBGs0gbs0iOIEXzckC6x1Sb2oiCSGaRhCbphFCUAZYNYOaoSRzD1QZSViiZYWH
+CmZYAdOQMWeEkEoUUZDRvTEZaBqVtpqaPm2rV/LXGYQKvhy7+AFbjN320IOx1ura
+7HMS/tvniTmPzrAXU9t2juz9pehg6mTJr8evXxrfn8B3duf9c6z+9kDa1UWH1pYu
+SHasmSx4Y11LvxgOx70UurkdL0m1Ox2HL/QWxVfC0Ue6ZvrdFU0T354PS7aU2KPR
+ss9HXm2OCToPdCXOVPqHk0IBbgFcv9CzbU9/XV+Xy5mUcXT3x1MdJQ2Jg4Gva6c9
+0fI1ycPdp2qbYTQsLIKP2e9ca3qGe/FyMMefnr6r59lF1/e0Lrk0lOu35S/5Ibd7
+vKNTH+iQ5LrOQLwjsjI0lB/ZP7Ch8WzOU5s2h13zBkNXT5SfKYv8ODE9787OygKu
+7lLpFMsV/N4ePDqekL90b6JreENHUqTsldTLnX833thpnxZvjh6vIG0f7Q0oqMKd
++WfzIWPV+7nrT+6bDkRzRj1tZw8t73t87FPtSutq1xNc2ooyR1kop0m4kFB9cWrP
+5MwQNxz969zCd2LTMso2/3Hkk75bu5OSWkvjulvED9rBb3EpZ959PnFgqiAv7c1d
+7t6fB5MeNlZ+c/uzkidvdH+pfDGyGh17byzNZtuXrkZcT1fN73XaC1bs0DqX5tw5
+2Td3ZrG7rb0juWuta8fIuoG3pzcGbK83dKvz46/poeca8LQTXFnl2PFd+NxY1ubT
+W3qWndE35p2z548efqtnZaSl+Psty7OjtxxfOTOE6tPo2tyUkk0nMtjdLaGU1xJz
+k9sm/wU=
+=qZKE
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/boennemann
+
+==================================================================

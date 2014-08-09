@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^3.0.0",
-    "randomColor": "git://github.com/davidmerfield/randomColor#~0.1.1"
+    "randomColor": "git://github.com/davidmerfield/randomColor#~0.1.1",
+    "domready": "~1.0.5"
   }
 }

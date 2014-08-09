@@ -264,6 +264,9 @@ module.exports = function (grunt) {
     },
 
     uncss: {
+      options: {
+        ignore: ['#fade.fade']
+      },
       dist: {
         files: [{
           src: '<%= config.dist %>/index.html',

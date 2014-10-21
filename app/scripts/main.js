@@ -20,5 +20,5 @@
       'color: ' + dark +
     '}'
   ));
-  document.documentElement.insertBefore(customStyles);
+  document.documentElement.insertBefore(customStyles, null);
 }).call(this);

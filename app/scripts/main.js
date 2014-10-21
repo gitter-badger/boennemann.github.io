@@ -21,4 +21,25 @@
     '}'
   ));
   document.documentElement.insertBefore(customStyles, null);
+
+  var request = new XMLHttpRequest();
+  request.open('GET', 'https://boennemann-location.herokuapp.com/location', true);
+
+  request.onload = function() {
+    if (this.status !== 200){
+      return;
+    }
+    var location = JSON.parse(this.response).location;
+    var lat = location.lat;
+    var lng = location.lng;
+
+    document.querySelector('#marker').insertAdjacentHTML('afterend',
+      '<br>' +
+      '<span>Last seen in ' +
+        '<a href="https://maps.google.com/?q=' + lat + ',' + lng + '">' +
+          location.city + ', ' + location.country +
+        '</a>' +
+      '</span>')
+  };
+  request.send();
 }).call(this);

@@ -1,5 +1,6 @@
 language: node_js
-sudo: false
+# currently broken "netstat: not found"
+# sudo: false
 cache:
   directories:
   - node_modules

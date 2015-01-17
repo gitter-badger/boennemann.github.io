@@ -1,12 +1,12 @@
-before_install:
-- npm install -g grunt-cli bower
 language: node_js
-node_js:
-- '0.10'
+sudo: false
+cache:
+  directories:
+  - node_modules
 notifications:
   email: false
 after_success:
-- grunt gh-pages
+- npm run deploy
 env:
   global:
     secure: hfC7rdkZIU8zn+zZrycdAeQWYUKBhIW4ZAst2ejce05yNI5pEVy7IO42TLRO3ncT0wX8jiyEiIx1tBHW9OnmQzF7NR7Sf9DIpR7iBGNJt0bsWrmesIJHPBSI7zoV2m1EtMtwVxOyGP+yiXVSJ7RExmOAJmBqnVDoraBasevHTME=

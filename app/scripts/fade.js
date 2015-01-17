@@ -1,3 +1,5 @@
+'use strict';
+
 domready(function() {
   document.querySelector('html').className = '';
   setTimeout(function() {

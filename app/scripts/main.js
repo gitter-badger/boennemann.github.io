@@ -7,7 +7,7 @@
   };
 
   var color = randomColor({
-    luminosity: 'bright'
+    luminosity: 'light'
   });
   var dark = shade(color, -0.2);
 
@@ -33,13 +33,9 @@
     var lat = location.lat;
     var lng = location.lng;
 
-    document.querySelector('#marker').insertAdjacentHTML('afterend',
-      '<br>' +
-      '<span>Last seen in ' +
-        '<a href="https://maps.google.com/?q=' + lat + ',' + lng + '">' +
-          location.city + ', ' + location.country +
-        '</a>' +
-      '</span>')
+    var node = document.querySelector('#location');
+    node.innerHTML = (location.city ? location.city + ', ' : '') + location.country;
+    node.setAttribute('href', 'https://maps.google.com/?q=' + lat + ',' + lng);
   };
   request.send();
 }).call(this);

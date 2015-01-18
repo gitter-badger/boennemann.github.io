@@ -10,4 +10,4 @@ after_success:
 - npm run deploy
 env:
   global:
-    secure: hfC7rdkZIU8zn+zZrycdAeQWYUKBhIW4ZAst2ejce05yNI5pEVy7IO42TLRO3ncT0wX8jiyEiIx1tBHW9OnmQzF7NR7Sf9DIpR7iBGNJt0bsWrmesIJHPBSI7zoV2m1EtMtwVxOyGP+yiXVSJ7RExmOAJmBqnVDoraBasevHTME=
+  - secure: E0+36QbQ1WhAczZX8u7pqG+yD+aGDfDJnZoAAVLioHXVrS2rop3roSwMi5GX5JdBKsdJ8FOebS4BK7WogxiBMS+sf5bhsDGx7QkfGJA5ziRhEB7A6jygf9JENsnziOUaIGDQI5rOgoGIums3CM+q39+/YtKY8ARfj9lcPUegVKQ=
